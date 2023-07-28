@@ -4,6 +4,10 @@
 # regulatorUtils
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/CCICB/regulatorUtils/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CCICB/regulatorUtils/actions/workflows/R-CMD-check.yaml)
+[![](https://img.shields.io/github/languages/code-size/CCICB/regulatorUtils.svg)](https://github.com/CCICB/regulatorUtils)
+[![](https://img.shields.io/github/last-commit/CCICB/regulatorUtils.svg)](https://github.com/CCICB/regulatorUtils/commits/main)
 <!-- badges: end -->
 
 A collection of utilities and data for making analyses of noncoding
