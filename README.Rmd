@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# regulatorUtils
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+A collection of utilities and data for making analyses of noncoding variation easier
+
+## Installation
+
+You can install the development version of regulatorUtils from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("CCICB/regulatorUtils")
+```
+
+## Usage
+
+
+```{r example}
+library(regulatorUtils)
+
+# Load noncoding cancer hotspots
+load_noncoding_hotspots()
+```
